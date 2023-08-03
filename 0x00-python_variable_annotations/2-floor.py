@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-'''Task 2's module.
-'''
+"""
+Module for task 02
+"""
 
 
 def floor(a: float) -> int:
-    '''Computes the floor of a floating-point number.
-    '''
+    """
+    Returns the floor of a floating-point number
+    """
     return int(a)
